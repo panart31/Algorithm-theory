@@ -15,5 +15,5 @@ pytest
 ## Состав
 
 - `python_lab_01/` — 11 заданий и модуль `run_lab.py`
-- `tests/` — тесты pytest
+- `python_lab_01/tests/` — тесты pytest
 - `requirements.txt` — зависимости
